@@ -18,6 +18,9 @@ The data is displayed on an LCD 16x2 and can be monitored in real-time using the
 5. Runs on Wokwi Simulator without physical hardware
 
 # 🖥️ Wokwi Diagram 
+![Diagram 1](https://github.com/anandaast/IoT-Sensor-Monitoring/blob/main/Image%2011-03-25%20at%2008.49.jpeg)  
+
+![Diagram 2](https://github.com/anandaast/IoT-Sensor-Monitoring/blob/main/Image%2011-03-25%20at%2008.49%20%281%29.jpeg)  
 
 # 💡 How It Works? 
 
