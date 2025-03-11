@@ -27,7 +27,7 @@ The data is displayed on an LCD 16x2 and can be monitored in real-time using the
 4. The data updates every 2 seconds to reflect real-time readings.
 
 # 📜 ESP32 Code 
-``cpp 
+```cpp 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <DHT.h>
@@ -115,6 +115,14 @@ void loop() {
 }
 
 ```
+# 🚀 How to Run in Wokwi 
+1. Open Wokwi ESP32 Simulator
+2. Create a new project and select ESP32
+3. Copy and paste the JSON diagram into diagram.json
+4. Copy and paste the C++ code into main.cpp
+5. Click the RUN ▶️ button to start the simulation
 
-
+# 📌 Conclusion 
+This project successfully demonstrates IoT-based environmental monitoring using ESP32.
+With the Wokwi Simulator, we can visualize sensor readings in real-time without requiring physical hardware! 🚀💡
 
